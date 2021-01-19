@@ -1,5 +1,14 @@
 /**
- * 날짜(MMDD) + MM 의 형태로 Date데이터 저장하기
+ * ver.3
+
+[날짜(MMDD) + MM값] 의 형태로 데이터 저장하기
+
+날짜가 저장된 header를 ArrayList로 저장한다.
+csv 파일의 row에 데이터가 존재하면 해당 column 명 값을 가져온다.
+
+- Jan.19 -> 0119 형태로 날짜 데이터 변환
+- JAVA date 함수를 이용하여 Date 형태로 출력
+
  **/
 
 
@@ -18,7 +27,7 @@ import java.util.*;
 public class DateFormat {
     public static void main(String args[]){
         //파일 경로
-        String filePath = "project_m_m_test.csv";
+        String filePath = "test.csv";
         //반환용 리스트 data
         List<List<String>> data = new ArrayList<List<String>>();
         //한줄씩 읽는 역할
