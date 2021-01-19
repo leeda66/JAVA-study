@@ -4,8 +4,10 @@ csv 파일을 BufferReader로 한 줄씩 읽고
 ,를 기준으로 split 하여 나눠진 데이터로 String 배열을 만든다.
 해당 배열을 ArrayList로 한 줄씩 변환하여
 최종 ArrayList에 데이터를 저장한다.
+
 - header 2행 제거
 - data 내 쉼표(,)가 있는 경우 특수문자(")처리
+
  **/
 
 
