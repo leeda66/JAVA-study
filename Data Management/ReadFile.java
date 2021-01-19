@@ -1,6 +1,12 @@
-package BISTel.parsing;
+/**
+ * ver.1
+csv 파일을 읽어서 token에 저장하기
+String 2차원 배열을 이용한다.
+ **/
+
+
 import java.io.*;
-//csv파일 전체를 읽어서 token에 저장하기
+
 public class ReadFile {
 
     public static void main(String args[]){
