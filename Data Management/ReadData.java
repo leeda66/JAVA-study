@@ -1,3 +1,27 @@
+/**
+ * ver.5
+
+MSSQL DB 연결하여 기능 추가하기
+csv 파일의 데이터를 DB table에 연결하여
+select, insert, update하는 쿼리문을 실행한다.
+
+ArrayList인 tmpList를 for문을 이용하여 확인한다.
+데이터 값이 존재하는 경우 로직에 따라 데이터를 DB에 반영한다.
+
+- insert, update, same 한 각각의 경우에 대해 DB에 반영된 row의 개수 출력
+- DB 연결 후 close 처리
+
+* 로직 {
+- [1] DB에 기존 데이터가 있는지/없는지 확인
+- [2] DB의 데이터 값과 csv파일의 데이터 값이 같은지/다른지 확인.
+
+- DB에 데이터가 있다면 -> 기존 데이터의 MM값과 동일하다면 -> break;
+                        		     					        다르다면 -> UPDATE
+- DB에 데이터가 없다면 -> INSERT
+}
+
+ **/
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
