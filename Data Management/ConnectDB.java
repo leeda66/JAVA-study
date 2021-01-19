@@ -1,3 +1,15 @@
+
+/**
+ * ver.4
+
+MSSQL DB 연결하기
+csv 파일의 데이터를 DB table에 insert하는 쿼리문 실행한다.
+
+- MM값의 단위 제거
+- SQL 문장 수행 후 insert 한 row의 개수 출력
+
+ **/
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
