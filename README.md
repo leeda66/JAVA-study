@@ -3,9 +3,9 @@
 ##Data Management Program
 
  * ver.1
->	> ReadFile.java
->>csv 파일을 읽어서 token에 저장하기
->>String 2차원 배열을 이용한다.
+> ReadFile.java
+>> csv 파일을 읽어서 token에 저장하기
+>> String 2차원 배열을 이용한다.
 
 ArrayFile.java
  * ver.2
