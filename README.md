@@ -2,6 +2,7 @@
 -------------
 
 ## Data Management Program
+: 데이터 관리 프로그램을 변경할 때 필요한 데이터를 요구에 맞게 관리할 수 있는 프로그램 개발
 
  * ver.1
 > ReadFile.java
@@ -16,15 +17,15 @@
 >> 해당 배열을 ArrayList로 한 줄씩 변환하여
 >> 최종 ArrayList에 데이터를 저장한다.
 
-ArrayFile2.java
- * ver.2.5
-csv 파일을 BufferReader로 한 줄씩 읽고
-,를 기준으로 split 하여 나눠진 데이터로 String 배열을 만든다.
-해당 배열을 ArrayList로 한 줄씩 변환하여
-최종 ArrayList에 데이터를 저장한다.
-- header 2행 제거
-- data 내 쉼표(,)가 있는 경우 특수문자(")처리
 
+ * ver.2.5
+> ArrayFile2.java
+>> csv 파일을 BufferReader로 한 줄씩 읽고
+>> ,를 기준으로 split 하여 나눠진 데이터로 String 배열을 만든다.
+>> 해당 배열을 ArrayList로 한 줄씩 변환하여
+>> 최종 ArrayList에 데이터를 저장한다.
+>> - header 2행 제거
+>> - data 내 쉼표(,)가 있는 경우 특수문자(")처리
 
 
 DateFormat.java
