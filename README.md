@@ -2,6 +2,8 @@
 ## Study Algorithm
 - Basic
 
+## Class
+- exercise question
 -------------
 
 ## Data Management Program
