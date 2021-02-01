@@ -1,9 +1,9 @@
 # JAVA-study
 ## Study Algorithm
-- Basic
+: Basic
 
 ## Class
-- exercise question
+: exercise question
 -------------
 
 ## Data Management Program
