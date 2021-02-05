@@ -1,6 +1,6 @@
 # JAVA-study
 ## Study Algorithm
-: Basic - 
+: Basic
 
 ## Class
 : exercise question
