@@ -1,4 +1,6 @@
-## Data Management Program
+ # JAVA-study
+ 
+ ## Data Management Program
 : 데이터 관리 프로그램 변경 시
 요청된 조건에 맞게 데이터를 변경하여 보여주는
 데이터 관리 프로그램 개발
@@ -67,7 +69,7 @@
  >> - 컬렴명 위치를 지정하는 변수 추가
  
  -------------
- # JAVA-study
+
 ## Study Algorithm
 : Basic
 
