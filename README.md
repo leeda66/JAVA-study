@@ -1,11 +1,3 @@
-# JAVA-study
-## Study Algorithm
-: Basic
-
-## Class
-: exercise question
--------------
-
 ## Data Management Program
 : 데이터 관리 프로그램 변경 시
 요청된 조건에 맞게 데이터를 변경하여 보여주는
@@ -73,3 +65,12 @@
  >> - 소수점 둘째 자리 수 까지 표현
  >> - JAVA 부동소수점 산술연산 오류 해결
  >> - 컬렴명 위치를 지정하는 변수 추가
+ 
+ -------------
+ # JAVA-study
+## Study Algorithm
+: Basic
+
+## Class
+: exercise question
+
