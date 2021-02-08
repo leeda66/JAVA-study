@@ -68,6 +68,10 @@
  >> - JAVA 부동소수점 산술연산 오류 해결
  >> - 컬렴명 위치를 지정하는 변수 추가
  
+ Settings : 
+ Java 8.0
+ MS SQL
+ 
  -------------
 
 ## Study Algorithm
