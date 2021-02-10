@@ -78,5 +78,5 @@
 : Basic
 
 ## Class
-: exercise question
+: exercise question JAVA class
 
