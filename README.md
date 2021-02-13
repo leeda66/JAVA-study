@@ -73,10 +73,11 @@
  MS SQL
  TOMCAT
  
+ 
  -------------
 
 ## Study Algorithm
-: Basic
+: solve Basic
 
 ## Class
 : exercise question JAVA class
