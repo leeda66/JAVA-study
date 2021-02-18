@@ -77,7 +77,7 @@
  -------------
 
 ## Study Algorithm
-: solve Basic Q
+: solve Basic 
 
 ## Class
 : exercise question JAVA class
