@@ -80,5 +80,5 @@
 : solve Basic 
 
 ## Class
-: exercise question JAVA class.
+: exercise question JAVA class
 
