@@ -73,9 +73,9 @@
 
  
  Settings : 
- Java 8.0
- MS SQL
- TOMCAT
+ > Java 8.0
+ > MS SQL
+ > TOMCAT
  
  
  -------------
