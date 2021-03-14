@@ -74,7 +74,7 @@
  
  Settings : 
  > Java 8.0
- > c#
+ > C#
  > MS SQL
  > TOMCAT
  > JSP
