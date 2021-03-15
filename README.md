@@ -80,7 +80,7 @@
  > JSP
  
  
- -------------
+ ---------------
 
 ## Study Algorithm
 : solve Basic 
